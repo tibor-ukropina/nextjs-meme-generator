@@ -1,4 +1,18 @@
+Try it out! I deployed this project using vercel: https://nextjs-meme-generator.vercel.app/
+
+This project is a meme generator built with Next.js and React. It enables users to add custom text to popular viral images from the internet. With dynamic text overlay capabilities, users can easily create memes and share them with their friends and family. 
+
+
+
+<img width="918" alt="Screenshot 2023-03-10 at 1 53 46 PM" src="https://user-images.githubusercontent.com/77939216/224401831-12eded9c-4647-4eca-b904-585a0ca48a19.png">
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+
 
 ## Getting Started
 
